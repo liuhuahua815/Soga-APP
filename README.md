@@ -3,7 +3,7 @@
 ### 功能架构
 ![image](https://user-images.githubusercontent.com/65109877/190060815-df609a6c-e8ff-453a-85d6-08de342dcf02.png)
 ### 词典功能演示
-
+![image](https://github.com/liuhuahua815/Soga-APP/blob/master/SOGA/imgs/WeChat_20220914130149.gif)
 ### 小程序端页面图（静态页面已完成）
 依次为： 首页、个人主页、发现页面、学习社区、词典查询区、单词学习打卡区、单词复习卡片、智能口语问答、翻译、学习监督区、自习室         
  ![image](https://user-images.githubusercontent.com/65109877/190060910-10516472-ac7d-458c-b1d6-f0318c5bce51.png)
